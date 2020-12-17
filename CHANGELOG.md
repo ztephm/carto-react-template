@@ -2,6 +2,7 @@
 
 ## Not released
 - Fix use of layerAttributes in UserDatasets [#154](https://github.com/CartoDB/carto-react-template/pull/154)
+- Fix store filters when using breadcrumbs to all stores [#156](https://github.com/CartoDB/carto-react-template/pull/156)
 
 ## 1.0.0-beta7 (2020-12-15)
 - Refactor to use local UserMenuLogin for managing Login button [#144](https://github.com/CartoDB/carto-react-template/pull/144)
